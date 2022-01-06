@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Cancer"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ]
+  ],
+  "legacy_uid": "b8012206-8fa0-5f6d-f407-c76c5b14679a",
+  "instructors": {
+    "content": [
+      "0fec68c6-d0b3-e313-4812-0ccd0586470f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e038ade9-abc6-2b7f-f7d6-dbfa9a86d9b9",
+    "website": "7-341-the-dna-damage-response-as-a-target-for-anti-cancer-therapy-fall-2008"
+  },
+  "course_title": "The DNA Damage Response as a Target for Anti-Cancer Therapy",
+  "course_description": "Cellular responses to DNA damage constitute one of the most important fields in cancer biology. In this class we will analyze classical and recent papers from the primary research literature to gain a profound understand of cell cycle regulation and DNA damage checkpoints that act as powerful emergency brakes to prevent cancer.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.341",
+  "course_image_thumbnail": {
+    "content": "29daeb8d-af66-8661-3fd7-1fb602170caf",
+    "website": "7-341-the-dna-damage-response-as-a-target-for-anti-cancer-therapy-fall-2008"
+  },
+  "learning_resource_types": [],
+  "site_uid": "fe6cff1b-cdec-465b-82e4-d2563c0a8add",
+  "title": "Course Metadata"
+}
